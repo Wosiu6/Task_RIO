@@ -1,0 +1,9 @@
+C:\Users\wospa\source\repos\Task_ROI\bin\Debug\Task_ROI.exe.config
+C:\Users\wospa\source\repos\Task_ROI\bin\Debug\Task_ROI.exe
+C:\Users\wospa\source\repos\Task_ROI\bin\Debug\Task_ROI.pdb
+C:\Users\wospa\source\repos\Task_ROI\bin\Debug\CommandLineArgumentsParser.dll
+C:\Users\wospa\source\repos\Task_ROI\obj\Debug\Task_ROI.csprojAssemblyReference.cache
+C:\Users\wospa\source\repos\Task_ROI\obj\Debug\Task_ROI.csproj.CoreCompileInputs.cache
+C:\Users\wospa\source\repos\Task_ROI\obj\Debug\Task_ROI.csproj.CopyComplete
+C:\Users\wospa\source\repos\Task_ROI\obj\Debug\Task_ROI.exe
+C:\Users\wospa\source\repos\Task_ROI\obj\Debug\Task_ROI.pdb
