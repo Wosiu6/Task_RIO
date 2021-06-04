@@ -12,6 +12,7 @@ Available commands and extensions:
 -save (to save to file)  
 -load (not implemented but could be used to load from the file)  
 -complete (-title x/ -date x) can be used with both subcommands or just either of them  
+-stop  
 
 ## Disclaimer
 Dealing with the commands is done using an open source library found on https://www.codeproject.com/Articles/3111/C-NET-Command-Line-Arguments-Parser
